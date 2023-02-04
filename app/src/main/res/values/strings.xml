@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyFavoritePokemon</string>
+    <string name="pokemon_name">Nama Pokemon</string>
+    <string name="detail">Detail</string>
+    <string name="power">Power</string>
+    <string name="about">About</string>
+    <string name="height">Tinggi</string>
+    <string name="height_value">nilai tinggi</string>
+    <string name="weight">Berat</string>
+    <string name="weight_value">nilai berat</string>
+    <string name="category">Kategori</string>
+    <string name="category_value">nilai kategori</string>
+    <string name="ability">Kemampuan</string>
+    <string name="ability_value">nilai kemampuan</string>
+    <string name="element">Element</string>
+    <string name="element_value">nilai element</string>
+    <string name="share">Share</string>
+    <string name="nama">Yusuf Fakhri</string>
+    <string name="email">yusuf2101858@gmail.com</string>
+</resources>
